@@ -73,7 +73,7 @@ The Virtual Agent ecosystem includes the following components:
     - Platform: Salesforce or MongoDB.
     - APIs: GraphQL for querying CRM data.
   - **Website:** 
-    - Frontend: React.js, Next.js.
+    - Frontend: React.js.
     - Backend: Node.js, Express.js.
   - **Mobile App:** 
     - Frontend: Flutter.
@@ -100,7 +100,7 @@ The Virtual Agent ecosystem includes the following components:
 - Use **AWS** for scalable compute, **Firebase** for real-time database handling, and **Azure** for CRM integration.
 
 ### **5.3 Tech Stack**
-- **Frontend:** React.js, Next.js, Flutter, Tailwind CSS.
+- **Frontend:** React.js, Flutter, Tailwind CSS.
 - **Backend:** Node.js, Express.js, Python (AI models), GraphQL.
 - **AI:** Hugging Face models (BERT, GPT-4), TensorFlow, PyTorch, Rasa.
 - **CRM:** Salesforce, MongoDB, PostgreSQL.
