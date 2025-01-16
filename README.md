@@ -1,5 +1,8 @@
 # Virtual Agent (Simulator) Documentation
 
+![Workflow of CRM Integration](./Workflow.jpeg)
+
+*Figure 1: Workflow of CRM Integration*
 ## 1. Introduction
 The Virtual Agent project, also known as the Simulator, is designed to revolutionize customer interactions by integrating AI capabilities with CRM systems, websites, and mobile applications. This documentation covers the process from building to deployment, providing a comprehensive guide to its implementation.
 
