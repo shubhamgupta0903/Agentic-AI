@@ -126,7 +126,8 @@ The Virtual Agent ecosystem includes the following components:
 2. Push Docker images to AWS ECR.
 3. Deploy using Kubernetes for scaling and load balancing.
 4. Monitor with AWS CloudWatch, Datadog.
-5. Set up CI/CD pipelines with GitHub Actions for continuous deployment.
+5. Use **Sentry** for real-time error tracking and user-impact analysis.
+6. Set up CI/CD pipelines with GitHub Actions for continuous deployment.
 
 ---
 
