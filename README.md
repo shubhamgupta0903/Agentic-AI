@@ -14,7 +14,6 @@ The Virtual Agent ecosystem includes the following components:
 - **Features:**
   - Natural Language Processing (NLP) for user query understanding.
   - Integration with CRM for personalized responses.
-  - 24/7 customer support availability.
 
 ### **CRM (Customer Relationship Management)**
 - **Features:**
