@@ -2,7 +2,7 @@
 
 ![Workflow of CRM Integration](./Workflow.jpeg)
 
-*Figure 1: Workflow of CRM Integration*
+
 ## 1. Introduction
 The Virtual Agent project, also known as the Simulator, is designed to revolutionize customer interactions by integrating AI capabilities with CRM systems, websites, and mobile applications. This documentation covers the process from building to deployment, providing a comprehensive guide to its implementation.
 
@@ -66,8 +66,8 @@ The Virtual Agent ecosystem includes the following key components:
 - **Development:**
   - AI Virtual Agent: Python, TensorFlow, or PyTorch.
   - CRM: Salesforce or a custom-built solution.
-  - Website: React.js and Node.js.
-  - Mobile App: Flutter.
+  - Website: Use React.js and Node.js, or opt for Next.js for a unified framework that handles both frontend and backend seamlessly.
+  - Mobile App: Flutter (To efficiently develop applications for both iOS and Android platforms simultaneously).
 
 ### 4.2 Hosting
 - **Platform:**
